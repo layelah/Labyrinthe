@@ -1,0 +1,23 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: #121212;
+}
+
+.slider .track {
+    -fx-background-color: linear-gradient(to right, #0078D4, #00CC6A);
+}
+
+.slider .thumb {
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: #0078D4;
+    -fx-border-width: 2;
+    -fx-background-radius: 10;
+}
+
+.slider .tick-mark {
+    -fx-text-fill: white;
+}
+
+.label {
+    -fx-text-fill: #E0E0E0;
+}
