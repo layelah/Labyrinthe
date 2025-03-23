@@ -11,7 +11,7 @@ Bienvenue dans **Résolution de Labyrinthe**, une application développée dans 
 
 ---
 
-![zoro.PNG](../../Pictures/zoro.PNG)
+![zoro](https://github.com/user-attachments/assets/50c4f28d-edc4-4284-9462-60219cf54f94)
 
 ---
 
