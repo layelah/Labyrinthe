@@ -104,7 +104,6 @@ Pour utiliser IntelliJ IDEA avec Liberica JDK 21 Full :
 Pour toute question ou suggestion, n’hésitez pas à nous contacter :
 
 - **[Abdoulaye LAH]** : ([GitHub](https://github.com/layelah))
->>>>>>> 73c8928 (end)
 - **[Ndeye Daba Seck]** : ([GitHub](https://github.com/Daba200616))
 - **[Aliou Badara Sané]** : ([GitHub](https://github.com/Aliou774))
 
